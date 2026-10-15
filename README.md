@@ -75,8 +75,8 @@ xcodebuild -project build/IRCabie.xcodeproj -configuration Release
 QWare_IRCabie/
 ├── Assets/
 │   ├── background.bmp
-│   ├── knob_vertical_sprites.png
-│   ├── toggle_knob_vertical_sprites
+│   ├── knob_sprites.png
+│   ├── switch_sprites.png
 │   └── icon.ico
 ├── Source/
 │   ├── PluginProcessor.cpp
